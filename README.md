@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt Text](https://media3.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif)
+
 <!--
 **mslanina-cen87179/mslanina-cen87179** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
